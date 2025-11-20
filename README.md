@@ -2,7 +2,7 @@
 
 ##  Nombre del Equipo
 **Equipo ToDoTrack**
-
+Santiago Morales Muñoz
 ##  Descripción de la Aplicación
 ToDoTrack es una aplicación móvil simple y eficiente para gestionar tareas diarias. Diseñada para usuarios que buscan una solución sin complicaciones para organizar sus actividades.
 
