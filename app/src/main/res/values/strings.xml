@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoTrack</string>
+    <string name="welcome_title">TodoTrack</string>
+    <string name="tasks_title">Tareas</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="new_task">Nueva tarea</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="pending_tasks">Tareas pendientes: %d</string>
+    <string name="no_tasks">No hay tareas</string>
+    <string name="filter_all">Todas</string>
+    <string name="filter_pending">Pendientes</string>
+    <string name="filter_completed">Completadas</string>
+    <string name="delete_task_message">¿Eliminar esta tarea?</string>
+    <string name="delete">Eliminar</string>
+</resources>
